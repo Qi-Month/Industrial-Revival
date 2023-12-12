@@ -1,0 +1,17 @@
+
+["configs for Tinkers' Thinking"]
+	#If true,Ardite Ore spawn will spawn in Nether.
+	"Ardite Ore spawn" = true
+	#How many Ardite Ore Veins spawn per chunk.
+	"Ardite Veins per chunk" = 5
+	#How many Ardite Ore Blocks spawn in one Vein.
+	#Range: 0 ~ 32
+	"Ardite Vein Size" = 4
+	#If true,Chlorophyll Ore spawn will spawn in Jungle and Lush Caves.
+	"Chlorophyll Ore spawn" = true
+	#How many Chlorophyll Ore Veins spawn per chunk.
+	"Chlorophyll Veins per chunk" = 7
+	#How many Chlorophyll Ore Blocks spawn in one Vein.
+	#Range: 0 ~ 32
+	"Chlorophyll Vein Size" = 6
+
